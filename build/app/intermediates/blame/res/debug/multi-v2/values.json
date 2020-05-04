@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/bruno/AndroidStudioProjects/controle_despesas/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/bruno/AndroidStudioProjects/controlar_gastos/controle_despesas/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/bruno/.gradle/caches/transforms-2/files-2.1/ae13efc3dbae5c9ee58d4933337fcd21/coordinatorlayout-1.0.0/res/values/values.xml",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "/home/bruno/AndroidStudioProjects/controle_despesas/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/bruno/AndroidStudioProjects/controlar_gastos/controle_despesas/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

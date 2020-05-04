@@ -159,7 +159,7 @@ class _HomePageState extends State<HomePage> {
             fontSize: 40.0,
           ),
         ),
-        Text("Total expenses",
+        Text("Total despesas",
           style: TextStyle(
             fontWeight: FontWeight.bold,
             fontSize: 16.0,
