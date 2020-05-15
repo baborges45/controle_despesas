@@ -1,4 +1,4 @@
-package com.brb.controledespesas
+package com.brb.controle_despesas
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "885165860449",
+    "firebase_url": "https://controle-despesas-android.firebaseio.com",
+    "project_id": "controle-despesas-android",
+    "storage_bucket": "controle-despesas-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885165860449:android:83b1f666e638223df1ac20",
+        "android_client_info": {
+          "package_name": "com.brb.controle_despesas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885165860449-5qpj1464b2uve5bv1dhqe8a8c4kei4qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCVMmE8bgMo7S-LxQWyf27AcQCqN1xmTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885165860449-5qpj1464b2uve5bv1dhqe8a8c4kei4qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
