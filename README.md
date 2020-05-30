@@ -1,6 +1,6 @@
 # controledespesas
 
-A new Flutter application.
+Uma aplicação Flutter para controle de gastos.
 
 ## Getting Started
 
